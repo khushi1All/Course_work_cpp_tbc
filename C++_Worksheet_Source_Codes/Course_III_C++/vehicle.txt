@@ -1,0 +1,10 @@
+----Car Details----
+Registration Number: 6666
+Color: Chrome
+Number of Seats: 2
+-------------------
+----Bike Details----
+Registration Number: 4905
+Color: Black
+Engine Capacity: 220 cc
+--------------------
